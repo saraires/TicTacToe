@@ -3,6 +3,12 @@ import 'homepage.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:avatar_glow/avatar_glow.dart';
 
+// Autores
+// - Dilan Salazar Ospina
+// - Amy Sofia Rosas Diaz
+// - Brayan Stiven Tobón Foronda
+// - Sarai Restrepo Rodríguez
+
 void main() {
   runApp(const MyApp());
 }
