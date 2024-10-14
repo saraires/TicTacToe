@@ -13,5 +13,4 @@ A new Flutter project.
 - Start the debug session to install the application. 
 - You are done!
 
-| https://github.com/user-attachments/assets/36c86054-af32-487b-bf23-262954c139e4 |
-
+https://github.com/user-attachments/assets/48fad7db-b893-4c2f-bc78-ee568940a680
