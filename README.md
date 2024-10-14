@@ -1,16 +1,17 @@
-# tictactoe
+# Tic Tac Toe
 
 A new Flutter project.
 
-## Getting Started
+:sparkles: We have made a simple little game of Tic tac toe in flutter as a project to explain programming paradigms! 
 
-This project is a starting point for a Flutter application.
+`Instructions for use:`
 
-A few resources to get you started if this is your first Flutter project:
+*Note: remember to have at least the VSC extensions to run code in flutter and dart*.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Go to the pubspec.yaml file and get the dependencies.
+- Set up an emulator
+- Start the debug session to install the application. 
+- You are done!
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| https://github.com/user-attachments/assets/36c86054-af32-487b-bf23-262954c139e4 |
+
